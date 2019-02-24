@@ -1,8 +1,10 @@
 table{
-	border: 1px solid black;
 	border-collapse: collapse;
 	display: inline-block;
 }
 table, th, td {
-  border: 1px solid black;
+  	border: 1px solid black;
+}
+td {	
+	padding: 5px;
 }
